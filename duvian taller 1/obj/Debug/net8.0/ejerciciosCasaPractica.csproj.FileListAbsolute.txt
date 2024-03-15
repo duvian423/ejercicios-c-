@@ -1,0 +1,14 @@
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\bin\Debug\net8.0\ejerciciosCasaPractica.exe
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\bin\Debug\net8.0\ejerciciosCasaPractica.deps.json
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\bin\Debug\net8.0\ejerciciosCasaPractica.runtimeconfig.json
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\bin\Debug\net8.0\ejerciciosCasaPractica.dll
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\bin\Debug\net8.0\ejerciciosCasaPractica.pdb
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\ejerciciosCasaPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\ejerciciosCasaPractica.AssemblyInfoInputs.cache
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\ejerciciosCasaPractica.AssemblyInfo.cs
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\ejerciciosCasaPractica.csproj.CoreCompileInputs.cache
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\ejerciciosCasaPractica.dll
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\refint\ejerciciosCasaPractica.dll
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\ejerciciosCasaPractica.pdb
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\ejerciciosCasaPractica.genruntimeconfig.cache
+C:\Users\duvian lopez\Desktop\Nueva carpeta\trabajos en clase\trabajo 1\ejerciciosCasaPractica\obj\Debug\net8.0\ref\ejerciciosCasaPractica.dll
