@@ -439,41 +439,41 @@
 //Solicita al usuario un número entero positivo y cuenta la cantidad de dígitos pares e
 //impares que contiene.
 //----------------------------------------------------------------------------------------
-//Console.WriteLine("ingresa un numero");
-//string entradaUser = Console.ReadLine();
+Console.WriteLine("ingresa un numero");
+string entradaUser = Console.ReadLine();
 
-//int numero;
+int numero;
 
-//bool validacion = int.TryParse(entradaUser, out numero);
+bool validacion = int.TryParse(entradaUser, out numero);
 
-//List<int> sumaPares = new List<int>();
-//List<int> sumaImpares = new List<int>();
-//int totalSumaPares = 0;
-//int totalSumaImpares = 0;
+List<int> sumaPares = new List<int>();
+List<int> sumaImpares = new List<int>();
+int totalSumaPares = 0;
+int totalSumaImpares = 0;
 
-//for (int i = 0; i < numero; i++)
-//{
+for (int i = 0; i < numero; i++)
+{
 
-//    if (i % 2 == 0)
-//    {
-//        sumaPares.Add(i);
-//    }
-//    else
-//    {
-//        sumaImpares.Add(i);
-//    }
-//}
-//Console.WriteLine("los numeros pares antes de llegar a el numero que escojiste son:");
-//for(int j = 0; j < sumaPares.Count(); j++)
-//{
-//    Console.WriteLine(sumaPares[j]);
-//}
-//Console.WriteLine("\n ------------------------------------------------------ \n");
-//Console.WriteLine("los numeros impares antes de llegar a el numero que escojiste son:");
-//for(int k = 0; k < sumaImpares.Count(); k++)
-//{
-//    Console.WriteLine(sumaImpares[k]);
-//}
+   if (i % 2 == 0)
+   {
+       sumaPares.Add(i);
+   }
+   else
+   {
+       sumaImpares.Add(i);
+   }
+}
+Console.WriteLine("los numeros pares antes de llegar a el numero que escojiste son:");
+for(int j = 0; j < sumaPares.Count(); j++)
+{
+   Console.WriteLine(sumaPares[j]);
+}
+Console.WriteLine("\n ------------------------------------------------------ \n");
+Console.WriteLine("los numeros impares antes de llegar a el numero que escojiste son:");
+for(int k = 0; k < sumaImpares.Count(); k++)
+{
+   Console.WriteLine(sumaImpares[k]);
+}
 
 
 
